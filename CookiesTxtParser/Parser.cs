@@ -49,6 +49,10 @@ namespace CookiesTxt
                     string line = sr.ReadLine();
                     lineCount++;
 
+                    // ignore empty lines
+                    if (String.IsNullOrEmpty(line)) 
+                        continue;
+
                     // Ignore comments
                     if (line[0] == '#')
                         continue;
