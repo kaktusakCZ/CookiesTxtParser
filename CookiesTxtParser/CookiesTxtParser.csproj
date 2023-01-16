@@ -15,9 +15,7 @@
 		<PackageTags>cookies</PackageTags>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-		<RepositoryUrl>https://github.com/xJonathanLEI/CookiesTxtParser</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
-		<PackageProjectUrl>https://github.com/xJonathanLEI/CookiesTxtParser</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
